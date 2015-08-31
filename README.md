@@ -290,6 +290,9 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [percol](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
     * [RainbowStream](http://www.rainbowstream.org/) - Smart and nice Twitter client on terminal.
     * [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command.
+* Presentation
+    * [prettytable](https://pypi.python.org/pypi/PrettyTable) - Display tabular data in ASCII or HTML.
+    * [terminaltables](https://github.com/Robpol86/terminaltables) - Draw tables in terminal/console applications from a list of lists of strings
 
 ## Downloader
 
